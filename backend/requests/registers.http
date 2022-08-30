@@ -1,0 +1,33 @@
+@api = http://localhost:3000/registers
+
+GET {{api}}
+
+###
+POST {{api}}
+
+###
+GET {{api}}/1
+
+###
+GET {{api}}/count
+
+###
+POST {{api}}
+Content-Type: application/json
+
+{
+    "title": "I must create an App",
+    "description": "some description register 6"
+}
+
+###
+DELETE {{api}}/5
+
+###
+PUT {{api}}/3
+Content-Type: application/json
+
+{
+    "title": "titulo 3",
+    "description": "descripcion 3"
+}
