@@ -1,6 +1,6 @@
 # APP STAR WARS
 
-Esta aplicacion seleccionar quién participará en cada uno de los programas de un nuevo programa de televisión llamado **Star Wars Game Show**.
+Esta aplicacion permite seleccionar quién participará en cada uno de los programas de un nuevo programa de televisión llamado **Star Wars Game Show**.
 
 ## Crear base de datos MySQL
 Copiar y pegar el codigo en consola. En Windows ingresar sin ```sudo```.
