@@ -48,11 +48,13 @@ DB_DATABASE=registersdb
 Ejecutar en consola nueva.
 ```
 cd backend
-
+```
+```
 npm i
-
+```
+```
 npm run build
-
+```
 npm start
 ```
 
@@ -61,8 +63,12 @@ npm start
 Ejecutar en consola nueva.
 ```
 cd myapp
-
+```
+```
+npm install --global expo-cli
+```
+```
 npm i
-
+```
 expo start
 ```
