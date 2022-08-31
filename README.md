@@ -72,6 +72,12 @@ npm install --global expo-cli
 expo init myapp
 ```
 ```
+npm install -g yarn
+```
+```
+yarn add expo
+```
+```
 npm i
 ```
 ```
