@@ -55,6 +55,7 @@ npm i
 ```
 npm run build
 ```
+```
 npm start
 ```
 
@@ -69,6 +70,7 @@ npm install --global expo-cli
 ```
 ```
 npm i
+```
 ```
 expo start
 ```
