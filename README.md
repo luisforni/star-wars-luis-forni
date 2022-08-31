@@ -69,6 +69,9 @@ cd myapp
 npm install --global expo-cli
 ```
 ```
+expo init myapp
+```
+```
 npm i
 ```
 ```
